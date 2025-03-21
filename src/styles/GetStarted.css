@@ -1,0 +1,78 @@
+.get-started-page {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffff;
+  }
+  
+  .title {
+    font-weight: bold;
+    font-size: 24px;
+    text-align: center;
+  }
+  
+  .client {
+    color: #e50061;
+    font-weight: bold;
+  }
+  
+  .professional {
+    color: #e50061;
+    font-weight: bold;
+
+  }
+  
+  .option-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin: 20px 0;
+  }
+
+  
+  .user-card {
+    width: 280px;
+    text-align: center;
+    cursor: pointer;
+    border: 2px solid #ddd;
+    transition: 0.3s;
+    padding: 10px;
+  }
+  
+  .user-card:hover {
+    border-color: #007bff;
+  }
+  
+  .selected {
+    border-color: #007bff;
+    background-color: #f8f9fa;
+  }
+  
+  .create-account-btn {
+    background-color: #007bff;
+    border: none;
+    width: 200px;
+    margin-top: 20px;
+  }
+  
+  .create-account-btn:hover {
+    background-color: #0056b3;
+  }
+  
+  .login-text {
+    margin-top: 10px;
+    font-size: 14px;
+  }
+  
+  .login-text a {
+    color: #e50061;
+    font-weight: bold;
+    text-decoration: none;
+  }
+  
+  .login-text a:hover {
+    text-decoration: underline;
+  }
+  

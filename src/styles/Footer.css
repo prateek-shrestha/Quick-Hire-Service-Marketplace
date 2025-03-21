@@ -1,0 +1,66 @@
+.footer {
+    background-color: #000;
+    color: #fff;
+    padding: 40px 0;
+    font-size: 14px;
+    max-width: 100%;
+  }
+  
+  .footer h5 {
+    font-weight: bold;
+    margin-bottom: 15px;
+  }
+  
+  .footer ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .footer ul li {
+    margin-bottom: 10px;
+  }
+  
+  .footer ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .footer ul li a:hover {
+    text-decoration: underline;
+  }
+  
+  .social-media-row p {
+    margin-bottom: 10px;
+  }
+  
+  .social-icons a {
+    color: white;
+    font-size: 1.6rem;
+    margin: 1rem;
+  }
+  
+  .social-icons .social-icon {
+    margin: 0 10px;
+    font-size: 20px;
+  }
+  
+  .social-icons .social-icon i {
+    color: #fff;
+  }
+
+  
+  .footer-bottom {
+    border-top: 1px solid #333;
+    padding-top: 20px;
+  }
+  
+  .app-icon {
+    width: 2rem; 
+    margin: 0 0.5rem;
+  }
+  .qpolicyies{
+    color : #fff;
+    margin: 0 0.3rem;
+  }
+ 
+  
